@@ -21,6 +21,7 @@ Actualmete tengo conocimientos en:
 - Java
 - MySQL
 - Python
+- PHP
 
 Pero no me quedo ahí, ¡quiero dominar muchos más lenguajes y herramientas!
 
