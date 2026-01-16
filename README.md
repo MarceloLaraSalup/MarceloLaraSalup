@@ -39,6 +39,7 @@ Si crees que puedo ser un buen candidato para tu empresa o proyecto, ¡no dudes 
 
 # 📫 Cómo contactarme
 📧 Email: marcelolarasalup@gmail.com
+
 📞 teléfono: +34 619 95 96 91
 
 ¡Gracias por visitar mi perfil! Espero que mis proyectos y mi actitud te llamen la atención. ¡Estoy listo para empezar esta nueva etapa profesional! 🚀
